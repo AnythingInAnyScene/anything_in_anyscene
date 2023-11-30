@@ -1,0 +1,11 @@
+**/3d_models/
+**/.vs/
+**/.vscode/
+**/__pycache__/
+**/**.spv
+**/**.txt
+!core/models_list.txt
+models/**
+build/**
+dist/**
+.DS_Store

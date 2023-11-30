@@ -1,0 +1,8 @@
+**/__pycache__
+result/
+data/
+debug/
+checkpoint/
+.vscode/
+*.ckpt
+*.pth
